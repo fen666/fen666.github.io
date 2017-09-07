@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Awesome Git]]></title>
+      <url>/2017/08/13/awesome-git/</url>
+      <content type="html"><![CDATA[<p>网罗一些 Git 相关的内容，主要包含的是我 “用过的” 或者 “觉得有用” 的 Git 知识。</p>
+<a id="more"></a>
+<h2 id="Git-写出好的-commit-message"><a href="#Git-写出好的-commit-message" class="headerlink" title="Git 写出好的 commit message"></a>Git 写出好的 commit message</h2><p>作者：<a href="https://ruby-china.org/victor" target="_blank" rel="external">victor</a><br>链接：<a href="https://ruby-china.org/topics/15737" target="_blank" rel="external">https://ruby-china.org/topics/15737</a></p>
+]]></content>
+      
+        <categories>
+            
+            <category> 开发工具 </category>
+            
+            <category> 版本管理 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[新的征程]]></title>
+      <url>/2017/08/11/new-journey/</url>
+      <content type="html"><![CDATA[<p>第一篇文章哎，想想都有点小激动，好啦该文章也好到此结束了^_^.</p>
+<a id="more"></a>
+<blockquote>
+<p>既然你点进来，就说明是对我的信任与支持（想远了）。让我们再说一点东西吧：</p>
+</blockquote>
+<h2 id="计划一"><a href="#计划一" class="headerlink" title="计划一"></a>计划一</h2><h3 id="基于-Materilize-和-Vue-2-x-的组件库"><a href="#基于-Materilize-和-Vue-2-x-的组件库" class="headerlink" title="基于　Materilize 和　Vue 2.x 的组件库"></a>基于　Materilize 和　Vue 2.x 的组件库</h3><p>更多: <a href="https://github.com/vue-materialize/materialize-vue" target="_blank" rel="external">materialize-vue</a>，别点了，目前什么都没有。</p>
+<h2 id="计划二"><a href="#计划二" class="headerlink" title="计划二"></a>计划二</h2><p>完成计划一再说吧，列了也是放着，还是要一个一个来的。</p>
+]]></content>
+      
+        <categories>
+            
+            <category> 程序人生 </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> html5 </tag>
+            
+            <tag> css3 </tag>
+            
+            <tag> javascript </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>

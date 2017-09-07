@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fen的博客</title>
+  <icon>https://www.gravatar.com/avatar/1a63a5c578c9a642dba962d84ddcf23d</icon>
+  <subtitle>Every day to learn a little bit, the future you can get a lot of gains.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fen666.github.io/"/>
+  <updated>2017-08-13T17:42:12.000Z</updated>
+  <id>https://fen666.github.io/</id>
+  
+  <author>
+    <name>fen666</name>
+    <email>lf00817@163.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Awesome Git</title>
+    <link href="https://fen666.github.io/2017/08/13/awesome-git/"/>
+    <id>https://fen666.github.io/2017/08/13/awesome-git/</id>
+    <published>2017-08-13T07:57:41.000Z</published>
+    <updated>2017-08-13T17:42:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>网罗一些 Git 相关的内容，主要包含的是我 “用过的” 或者 “觉得有用” 的 Git 知识。</p><a id="more"></a><h2 id="Git-写出好的-commit-message"><a href="#Git-写出好的-commit-message" class="headerlink" title="Git 写出好的 commit message"></a>Git 写出好的 commit message</h2><p>作者：<a href="https://ruby-china.org/victor" target="_blank" rel="external">victor</a><br>链接：<a href="https://ruby-china.org/topics/15737" target="_blank" rel="external">https://ruby-china.org/topics/15737</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;网罗一些 Git 相关的内容，主要包含的是我 “用过的” 或者 “觉得有用” 的 Git 知识。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="开发工具" scheme="https://fen666.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="版本管理" scheme="https://fen666.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="git" scheme="https://fen666.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新的征程</title>
+    <link href="https://fen666.github.io/2017/08/11/new-journey/"/>
+    <id>https://fen666.github.io/2017/08/11/new-journey/</id>
+    <published>2017-08-11T07:00:47.000Z</published>
+    <updated>2017-08-13T17:42:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>第一篇文章哎，想想都有点小激动，好啦该文章也好到此结束了^_^.</p><a id="more"></a><blockquote><p>既然你点进来，就说明是对我的信任与支持（想远了）。让我们再说一点东西吧：</p></blockquote><h2 id="计划一"><a href="#计划一" class="headerlink" title="计划一"></a>计划一</h2><h3 id="基于-Materilize-和-Vue-2-x-的组件库"><a href="#基于-Materilize-和-Vue-2-x-的组件库" class="headerlink" title="基于　Materilize 和　Vue 2.x 的组件库"></a>基于　Materilize 和　Vue 2.x 的组件库</h3><p>更多: <a href="https://github.com/vue-materialize/materialize-vue" target="_blank" rel="external">materialize-vue</a>，别点了，目前什么都没有。</p><h2 id="计划二"><a href="#计划二" class="headerlink" title="计划二"></a>计划二</h2><p>完成计划一再说吧，列了也是放着，还是要一个一个来的。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;第一篇文章哎，想想都有点小激动，好啦该文章也好到此结束了^_^.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="程序人生" scheme="https://fen666.github.io/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/"/>
+    
+    
+      <category term="html5" scheme="https://fen666.github.io/tags/html5/"/>
+    
+      <category term="css3" scheme="https://fen666.github.io/tags/css3/"/>
+    
+      <category term="javascript" scheme="https://fen666.github.io/tags/javascript/"/>
+    
+  </entry>
+  
+</feed>
